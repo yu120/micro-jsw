@@ -35,7 +35,6 @@
                 <include>*.yml</include>
                 <include>*.xml</include>
                 <include>*.properties</include>
-                <include>static/**</include>
                 <!-- Must be configured -->
                 <include>*.conf</include>
             </includes>

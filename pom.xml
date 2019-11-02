@@ -61,7 +61,6 @@
                         <exclude>*.yml</exclude>
                         <exclude>*.xml</exclude>
                         <exclude>*.properties</exclude>
-                        <exclude>static/**</exclude>
                         <!-- Must be configured -->
                         <exclude>*.conf</exclude>
                     </excludes>
